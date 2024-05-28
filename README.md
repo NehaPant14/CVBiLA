@@ -17,8 +17,8 @@ Notes
 
 The dataset for the other stations are also attached:
 
-UP08: Narora
-UP09: Kachla Ghat, Badaun
+1. UP08: Narora
+2. UP09: Kachla Ghat, Badaun
 UP14: Ghatiya ghat, Farrukhabad
 UP18: Bridge at Bithoor
 UP19: Ganga Barrage, Kanpur

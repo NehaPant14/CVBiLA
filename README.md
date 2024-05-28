@@ -19,14 +19,14 @@ The dataset for the other stations are also attached:
 
 1. UP08: Narora
 2. UP09: Kachla Ghat, Badaun
-UP14: Ghatiya ghat, Farrukhabad
-UP18: Bridge at Bithoor
-UP19: Ganga Barrage, Kanpur
-UP24: Bathing Ghat, Kanpur
-UP26: Shuklaganj, Kanpur
-UP32: Ansi, Fatehpur
-UP55: Gomti, Varanasi
-UP56: Rajwari
+3. UP14: Ghatiya ghat, Farrukhabad
+4. UP18: Bridge at Bithoor
+5. UP19: Ganga Barrage, Kanpur
+6. UP24: Bathing Ghat, Kanpur
+7. UP26: Shuklaganj, Kanpur
+8. UP32: Ansi, Fatehpur
+9. UP55: Gomti, Varanasi
+10. UP56: Rajwari
 
 Acknowledgments
 We acknowledge the National Supercomputing Mission (NSM) for providing computing resources of ‘PARAM Ganga’ at the Indian Institute of Technology Roorkee, which is implemented by C-DAC and supported by the

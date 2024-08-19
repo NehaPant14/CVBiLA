@@ -28,7 +28,3 @@ The dataset for the other stations are also attached:
 9. UP55: Gomti, Varanasi
 10. UP56: Rajwari
 
-Acknowledgments
-We acknowledge the National Supercomputing Mission (NSM) for providing computing resources of ‘PARAM Ganga’ at the Indian Institute of Technology Roorkee, which is implemented by C-DAC and supported by the
-Ministry of Electronics and Information Technology (MeitY) and Department of Science and Technology (DST), Government of India
-
